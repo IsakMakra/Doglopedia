@@ -28,7 +28,23 @@ body {
 
 .link {
     display: inline-block;
-    color: black;   
+    color: rgb(79, 79, 79);   
+    font-size: 20px;
     padding: 10px;
-    
+    text-decoration: underline dotted;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#portrait { 
+    height: 300px;
+    width: 300px;
+    background-image: url(chewbacca.png);
+    background-size: cover;
+    border-radius: 50%;
+    margin: 0 auto;
+    border: solid 1px black;
 }
