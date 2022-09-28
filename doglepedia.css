@@ -1,0 +1,15 @@
+#title {
+    background-color: beige;
+    height: 100;
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(135, 131, 74);
+}
+
+#title p{
+    font-size: 25px;
+    font-weight: bold;
+}
